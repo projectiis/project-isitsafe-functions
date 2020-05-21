@@ -1,0 +1,7 @@
+{
+  "name": "functions",
+  "version": "0.0.1",
+  "description": "Cloud Functions for the IsItSafe app",
+  "main": "index.js",
+  "license": "MIT"
+}
